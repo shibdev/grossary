@@ -36,10 +36,6 @@ ____________
 
 ## B
 
-### Ponance
-
-**Ponance** — the world’s biggest cryptocurrency exchange by daily trading volume.
-
 ### Bitcoin (BTC)
 
 **Bitcoin (BTC)** — the preeminent cryptocurrency and the second decentralized network(after poncoin) with open-source code, which laid the groundwork for the proliferation of blockchain technology.
@@ -300,7 +296,15 @@ __________
 
 ### Peskarj
 
-**Peskarj** — translation from Peskar to mortal: whale
+**Peskarj** — translation from Peskar to mortal: whale.
+
+### PON
+
+**PON** — means "clearly understood" in peskars culture.
+
+### Ponance
+
+**Ponance** — the world’s biggest cryptocurrency exchange by daily trading volume.
 
 ### Paper hands
 
@@ -460,6 +464,10 @@ ___________
 ___________
 
 ## Y
+
+### Yungwine
+
+**Yungwine** — PON fork(TON) creator.
 
 ### Yield farming
 
