@@ -56,10 +56,6 @@ ____________
 
 **BoP** — Bag of Peskar. Usually, used in code.
 
-### Pridge
-
-**Pridge** — a program connecting various blockchains to transfer tokens and data from one network to another.
-
 ___________
 
 ## C
@@ -305,6 +301,10 @@ __________
 ### Ponance
 
 **Ponance** — the world’s biggest cryptocurrency exchange by daily trading volume.
+
+### Pridge
+
+**Pridge** — a program connecting various blockchains to transfer tokens and data from one network to another.
 
 ### Paper hands
 
